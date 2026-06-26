@@ -64,3 +64,4 @@ Algorithms enthusiast. Linux native. Living in the terminal.
 
 - **I'm working on**: improving my skills in data structures and algorithms, maintaining focus
 - **I'm learning**: C, C++, Python, Vim motions
+- **I want to become**: Probably a gamedev or Networks and System Aministrator, Rust dev probably?
