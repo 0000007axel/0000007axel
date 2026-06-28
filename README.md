@@ -23,7 +23,7 @@
 ---
 
   Student at **École 42** — learning through projects, ego, and pain.
-Building things in C from scratch. Occasionally writing Python when I want to feel productive.
+Building things in C from scratch. Occasionally writing Python when I want to feel productive/competitive.
 Currently obsessed with understanding how things work under the hood. Most of my time is spent working with algorithms, networking, and software architecture.  
 Algorithms enthusiast. Linux native. Living in the terminal.  
 
@@ -62,6 +62,6 @@ Algorithms enthusiast. Linux native. Living in the terminal.
 
 ---
 
-- **I'm working on**: improving my skills in data structures and algorithms, maintaining focus
-- **I'm learning**: C, C++, Python, Vim motions
-- **I want to become**: Probably a gamedev or Networks and System Aministrator, Rust dev probably?
+- **I'm working on**: improving my skills in data structures and algorithms, maintaining focus.
+- **I'm learning**: C, C++, Python, Vim motions.
+- **I am interested in**: Competitive programming, gamedev, algorithms, system and network administration, linux ricing.
