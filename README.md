@@ -9,7 +9,8 @@
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/NeoVim-black?style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/NeoVim-black?style=for-the-badge&logo=neovim&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Vim-black?style=for-the-badge&logo=neovim&logoColor=white" />
   <img src="https://img.shields.io/badge/Ghostty-black?style=for-the-badge&logo=ghostty&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" />
 </div>
