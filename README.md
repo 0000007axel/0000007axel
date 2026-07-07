@@ -4,15 +4,15 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/42%20Antananarivo-000000?style=for-the-badge&logo=42&logoColor=white">
   <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/NeoVim-black?style=for-the-badge&logo=neovim&logoColor=white" />  
-  <img src="https://img.shields.io/badge/Vim-black?style=for-the-badge&logo=vim&logoColor=white" />
+  <img src="https://img.shields.io/badge/NeoVim-black?style=for-the-badge&logo=neovim&logoColor=white" />
   <img src="https://img.shields.io/badge/Ghostty-black?style=for-the-badge&logo=ghostty&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/42%20Antananarivo-000000?style=for-the-badge&logo=42&logoColor=white">
 </div>
 
 
@@ -23,13 +23,10 @@
 
 ---
 
-  Student at **École 42** — learning through projects, ego, and pain.
-Building things in C from scratch. Occasionally writing Python when I want to feel productive/competitive.
-Currently obsessed with understanding how things work under the hood. Most of my time is spent working with algorithms, networking, and software architecture.  
-Algorithms enthusiast. Linux native. Living in the terminal.  
+Scholar of École 42, where wisdom is bought with sleepless nights and wounded pride.
+I forge programs in C through perseverance and precision. Python is a trusted tool, employed only when the task demands haste. Ever seeking the hidden workings beneath the machine, my days are devoted to algorithms, networking, and the architecture of operating systems.
 
-  
-  I use NeoVim btw.
+Algorithms enthusiast. Linux native. Living in the terminal.
 
 <br>
 <br>
