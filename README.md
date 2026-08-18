@@ -19,10 +19,12 @@
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+JP&duration=4000&color=AAAAAA&vCenter=true&width=385&height=30&lines=w+h+o+a+m+i+;%5Bhu%CB%90%CB%88%C3%A6mi%5D" alt="Typing SVG" /></a>
 
-  Student at **École 42** — learning through projects, ego, and pain.
-Building things in C from scratch. Occasionally writing Python when I want to feel productive.
-Currently obsessed with understanding how things work under the hood. Most of my time is spent working with algorithms, networking, and software architecture.
-  I use Neovim btw.
+Scholar at École 42 — learning through projects, hardship, and perhaps too much pride...
+I build things in C from the ground up, and occasionally turn to Python when the task requires it.
+
+Driven by a relentless thirst for knowledge, I have a fondness for low-level programming, algorithms, networking, and software architecture, while also taking great pleasure in making things look beautiful.
+
+Linux native, living in the terminal, and i use Neovim btw.
 
 <br>
 <br>
