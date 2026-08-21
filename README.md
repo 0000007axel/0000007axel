@@ -20,8 +20,8 @@
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+JP&duration=4000&color=AAAAAA&vCenter=true&width=385&height=30&lines=w+h+o+a+m+i+;%5Bhu%CB%90%CB%88%C3%A6mi%5D" alt="Typing SVG" /></a>
 
-Scholar at École 42 — learning through projects, hardship, and perhaps too much pride...
-I build things in C from the ground up, and occasionally turn to Python when the task requires it.
+Scholar at École 42 — learning through difficult projects, sleepless nights, and perhaps too much pride...
+I build things in C from the ground up, and occasionally turn to Python when the task requires it, but i find Rust particularly interesting as well.
 
 Driven by a relentless thirst for knowledge, I have a fondness for low-level programming, algorithms, networking, and software architecture, while also taking great pleasure in making things look beautiful.
 
